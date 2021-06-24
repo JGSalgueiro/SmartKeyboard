@@ -1,6 +1,6 @@
 # SmartWatch Keyboard Project - HCI IST 2020
 
-![Example](example.jpeg)
+![Example](example.png)
 
 ## Description 
 SmartKeyboard Concept implemented in Processing 3 for the discipline of Human-Computer Interactions at Instituto Superior Técnico. 
